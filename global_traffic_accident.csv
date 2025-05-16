@@ -1,0 +1,301 @@
+Accident ID,Date,Time,Location,Latitude,Longitude,Weather Condition,Road Condition,Vehicles Involved,Casualties,Cause
+b0dd6f57,19-04-2023,06:39,"Mumbai, India",13.488432,-73.290682,Snow,Snowy,5,7,Reckless Driving
+debfad09,17-01-2023,02:47,"S?œo Paulo, Brazil",-37.798317,-32.244242,Clear,Icy,4,1,Drunk Driving
+6d69aa36,09-04-2024,02:55,"Sydney, Australia",33.767869,104.869018,Rain,Snowy,1,7,Reckless Driving
+425bb1f0,10-10-2023,11:23,"Tokyo, Japan",-0.378031,-165.825855,Storm,Wet,4,0,Drunk Driving
+90d5cf62,02-01-2023,12:07,"Beijing, China",41.254879,-30.776959,Storm,Snowy,3,9,Reckless Driving
+24d3501f,02-04-2023,10:57,"Paris, France",-85.766268,-20.271304,Fog,Icy,2,6,Drunk Driving
+0f1ed7d1,11-07-2023,08:34,"Mumbai, India",-24.046032,-4.414578,Clear,Under Construction,4,8,Reckless Driving
+82353f3e,26-05-2024,19:06,"Mumbai, India",48.77465,-131.30627,Rain,Icy,4,5,Weather Conditions
+3ab2d6f6,23-10-2023,19:47,"London, UK",-55.335689,152.606359,Fog,Wet,2,9,Reckless Driving
+6.14E+09,15-07-2024,02:33,"Toronto, Canada",24.566435,-75.913198,Storm,Snowy,1,7,Mechanical Failure
+b0b13d4b,09-11-2024,23:31,"Toronto, Canada",-59.047194,57.831011,Clear,Under Construction,1,1,Weather Conditions
+8694a279,14-09-2023,20:11,"Berlin, Germany",-31.825114,-73.647462,Fog,Wet,3,9,Drunk Driving
+1dfd0097,01-01-2023,17:12,"Beijing, China",1.406127,-32.244107,Hail,Icy,5,9,Weather Conditions
+6c97348c,05-01-2023,18:41,"Mumbai, India",1.55188,-169.953341,Snow,Snowy,4,6,Drunk Driving
+2db70f77,07-12-2024,19:24,"Toronto, Canada",49.206865,-111.184284,Hail,Gravel,3,10,Mechanical Failure
+24cdeeb9,09-08-2024,23:39,"S?œo Paulo, Brazil",-39.332739,0.991049,Fog,Under Construction,3,2,Speeding
+68ab5a6b,29-11-2024,08:16,"S?œo Paulo, Brazil",51.568285,-22.209768,Clear,Gravel,3,3,Speeding
+acfb6bcc,30-12-2023,17:57,"Tokyo, Japan",-59.799586,134.326268,Snow,Icy,1,1,Speeding
+552448f0,01-07-2024,19:25,"Tokyo, Japan",-19.00646,-52.779439,Rain,Gravel,5,9,Drunk Driving
+d4af2e94,03-02-2023,03:04,"S?œo Paulo, Brazil",0.520167,-170.05232,Rain,Gravel,5,3,Drunk Driving
+78d1fca8,08-07-2024,10:54,"London, UK",41.583094,34.483181,Hail,Dry,5,7,Mechanical Failure
+711ca10d,06-03-2023,10:17,"Beijing, China",14.023021,13.166353,Snow,Gravel,2,1,Distracted Driving
+07a19dbc,22-01-2023,08:11,"Toronto, Canada",-35.515747,-65.785699,Fog,Snowy,1,4,Reckless Driving
+0d628b15,20-10-2024,21:32,"Mumbai, India",-45.421121,-142.479166,Clear,Icy,2,5,Speeding
+a17755ed,26-03-2024,11:37,"Tokyo, Japan",-46.1074,156.13629,Hail,Dry,2,2,Distracted Driving
+87bd34a6,24-07-2024,19:32,"S?œo Paulo, Brazil",-37.075082,-3.632071,Hail,Dry,2,4,Mechanical Failure
+6f814599,15-11-2023,08:52,"Tokyo, Japan",0.564118,-96.03814,Hail,Snowy,1,10,Drunk Driving
+03e3a796,17-06-2024,03:26,"Paris, France",39.311402,-103.818156,Rain,Dry,2,6,Drunk Driving
+d0028b49,14-12-2024,15:40,"Mumbai, India",13.419264,-176.27762,Snow,Gravel,3,0,Mechanical Failure
+25e09923,15-04-2023,15:09,"Beijing, China",-77.18038,38.151535,Hail,Wet,4,3,Distracted Driving
+bed2c6c4,17-09-2024,00:34,"Beijing, China",78.721562,33.39283,Snow,Gravel,2,7,Reckless Driving
+74740d58,18-12-2024,08:24,"New York, USA",-59.229291,15.139089,Storm,Under Construction,4,8,Drunk Driving
+937a310d,11-02-2023,23:44,"Mumbai, India",31.585442,-81.570146,Storm,Wet,4,7,Speeding
+34429537,13-04-2023,16:57,"Beijing, China",66.791916,169.892992,Storm,Dry,1,9,Mechanical Failure
+32333075,05-05-2024,17:46,"New York, USA",-66.593538,22.316442,Snow,Wet,1,8,Drunk Driving
+5bccf535,01-01-2024,14:27,"Toronto, Canada",-40.859514,22.640758,Clear,Icy,1,3,Mechanical Failure
+33666c67,19-11-2024,04:27,"Berlin, Germany",-62.486431,-47.774334,Fog,Under Construction,5,6,Distracted Driving
+858eef9e,03-09-2023,12:19,"S?œo Paulo, Brazil",17.159559,152.596097,Hail,Gravel,1,10,Drunk Driving
+eeb04951,18-10-2023,12:41,"Paris, France",63.995818,-159.438143,Clear,Dry,3,7,Reckless Driving
+1db7ab91,31-08-2024,08:30,"Sydney, Australia",-20.350387,160.628329,Snow,Dry,1,0,Speeding
+a6096ace,23-03-2024,05:47,"New York, USA",-22.396038,-85.316896,Snow,Icy,5,3,Drunk Driving
+43138eec,18-11-2024,10:09,"Mumbai, India",3.534182,-138.286329,Fog,Icy,3,5,Weather Conditions
+f1b6e814,26-10-2023,06:06,"Mumbai, India",-21.919688,-124.709878,Fog,Gravel,2,10,Mechanical Failure
+84c341c6,06-10-2023,17:57,"Tokyo, Japan",61.881671,157.894619,Rain,Gravel,4,2,Weather Conditions
+c2651203,05-06-2024,02:56,"London, UK",65.491629,107.589105,Rain,Icy,5,10,Distracted Driving
+16bac27f,30-07-2023,15:40,"New York, USA",-57.258756,-126.27126,Hail,Icy,4,7,Speeding
+37c6c4a9,04-06-2023,23:45,"Beijing, China",-55.40796,97.298605,Hail,Icy,3,7,Reckless Driving
+bf023036,15-06-2024,11:50,"Berlin, Germany",15.090995,-74.124001,Rain,Icy,2,4,Reckless Driving
+3c7895e3,29-06-2023,05:02,"Beijing, China",-76.277212,42.303331,Hail,Dry,5,3,Speeding
+e72d1cf5,11-11-2024,23:49,"Beijing, China",-2.020858,120.77658,Fog,Dry,4,7,Mechanical Failure
+aa4e6464,06-03-2024,20:07,"New York, USA",-70.376112,-45.300733,Hail,Wet,2,9,Drunk Driving
+8dfdb70f,07-09-2024,06:58,"London, UK",2.131448,98.8593,Storm,Icy,4,7,Mechanical Failure
+de752b5e,02-06-2024,07:25,"S?œo Paulo, Brazil",-11.532914,118.877007,Clear,Dry,5,4,Reckless Driving
+b8370c74,31-12-2023,07:05,"London, UK",5.804818,129.324357,Storm,Snowy,5,5,Distracted Driving
+6625614f,02-02-2024,14:01,"Mumbai, India",34.304319,59.339816,Rain,Snowy,2,10,Reckless Driving
+711fc466,05-08-2024,04:22,"Tokyo, Japan",-22.553996,138.224377,Fog,Wet,5,6,Weather Conditions
+9b2f8106,25-04-2023,01:07,"Mumbai, India",44.539495,159.23528,Snow,Snowy,4,6,Distracted Driving
+abb826f0,03-07-2024,04:19,"Paris, France",-17.507656,140.222556,Rain,Icy,4,1,Weather Conditions
+e281c08e,18-05-2023,23:16,"Berlin, Germany",-20.243424,-45.103983,Rain,Snowy,4,4,Reckless Driving
+a9d0cf19,29-11-2024,10:30,"Tokyo, Japan",-43.350751,84.996923,Snow,Snowy,1,7,Reckless Driving
+3c3e4300,17-01-2023,15:09,"New York, USA",78.681556,31.476773,Clear,Under Construction,3,9,Reckless Driving
+1a1180b0,26-12-2023,03:54,"New York, USA",64.804801,103.972328,Fog,Gravel,3,8,Mechanical Failure
+1293b087,03-03-2024,22:04,"Mumbai, India",70.367528,-89.76046,Hail,Icy,2,8,Speeding
+6b537dbb,02-07-2023,01:05,"Berlin, Germany",19.094991,-111.565121,Hail,Snowy,3,5,Mechanical Failure
+7b2ae6a0,22-10-2024,05:42,"Paris, France",87.866753,154.298074,Hail,Icy,1,10,Weather Conditions
+0c0d8849,13-11-2023,21:39,"S?œo Paulo, Brazil",41.031037,110.949287,Storm,Dry,2,6,Speeding
+a0cd4c93,05-11-2024,20:59,"Sydney, Australia",-58.030769,-31.404339,Storm,Under Construction,2,4,Mechanical Failure
+5b0db5ef,18-11-2024,16:34,"Toronto, Canada",0.224393,-159.053839,Fog,Snowy,5,5,Weather Conditions
+4b80231c,26-07-2023,12:23,"Toronto, Canada",88.36597,-11.441761,Hail,Snowy,2,6,Speeding
+b8adaf03,23-03-2024,05:55,"New York, USA",8.790048,-172.043763,Clear,Icy,1,7,Mechanical Failure
+9f707f7c,17-07-2024,13:08,"New York, USA",27.340188,-37.116412,Rain,Snowy,1,9,Distracted Driving
+2aa0a683,26-07-2024,03:25,"Paris, France",47.697633,27.750282,Storm,Snowy,1,3,Mechanical Failure
+8edf9936,22-12-2023,04:03,"Paris, France",24.596828,-58.533915,Hail,Wet,4,3,Speeding
+c4914863,29-05-2024,16:57,"Beijing, China",-50.691802,-50.930463,Hail,Icy,2,0,Mechanical Failure
+2d754779,12-03-2024,14:47,"Paris, France",35.23523,-87.093572,Storm,Gravel,4,9,Weather Conditions
+ab0bf26a,05-07-2024,11:32,"Tokyo, Japan",73.274437,147.323992,Rain,Under Construction,5,10,Reckless Driving
+efdd392d,04-03-2024,11:01,"Toronto, Canada",83.854403,-153.258055,Hail,Wet,4,7,Drunk Driving
+7cc158be,24-07-2024,20:47,"Tokyo, Japan",-89.775139,-152.005303,Rain,Dry,5,3,Mechanical Failure
+5a49bde8,21-12-2024,09:31,"London, UK",80.585201,-141.916596,Snow,Wet,2,10,Speeding
+e3f78c1d,21-12-2024,19:02,"Tokyo, Japan",48.022059,-173.779065,Hail,Snowy,1,8,Weather Conditions
+dc113f24,16-05-2024,00:37,"New York, USA",65.92936,42.129196,Clear,Wet,2,2,Reckless Driving
+8541f92c,25-12-2024,04:56,"S?œo Paulo, Brazil",42.432502,-107.496412,Fog,Icy,3,7,Weather Conditions
+80a90a04,29-10-2023,01:14,"Berlin, Germany",-63.882884,-149.304063,Snow,Gravel,3,1,Speeding
+740f4d46,05-10-2023,21:56,"Berlin, Germany",66.953341,-46.007501,Storm,Snowy,1,8,Distracted Driving
+7e1dd5d4,02-01-2023,09:13,"S?œo Paulo, Brazil",51.272201,37.596233,Hail,Snowy,2,8,Mechanical Failure
+370c159a,23-02-2023,13:24,"London, UK",34.023057,139.600976,Storm,Gravel,1,3,Drunk Driving
+825dfc83,27-10-2023,17:02,"Tokyo, Japan",59.328323,41.843209,Snow,Gravel,3,3,Reckless Driving
+64cd8517,11-05-2024,22:45,"London, UK",53.32785,68.244045,Fog,Icy,1,3,Mechanical Failure
+5e31baae,16-05-2024,16:23,"Sydney, Australia",-23.343973,-157.285425,Rain,Gravel,2,10,Drunk Driving
+7ca5bd8b,13-02-2023,18:06,"Mumbai, India",-49.585552,172.472245,Fog,Dry,4,8,Weather Conditions
+bc4dcd1a,29-05-2023,21:10,"Sydney, Australia",88.958166,6.391456,Storm,Dry,3,9,Distracted Driving
+9866b47e,11-05-2023,01:11,"Mumbai, India",61.105044,-152.109474,Hail,Wet,5,2,Reckless Driving
+5672fd96,10-04-2023,23:59,"Toronto, Canada",51.534533,122.768047,Fog,Under Construction,1,5,Weather Conditions
+e892414b,02-04-2024,08:26,"Mumbai, India",20.038202,110.300425,Fog,Snowy,2,1,Reckless Driving
+1230c629,20-04-2024,09:42,"New York, USA",5.576597,-133.666338,Snow,Dry,5,8,Weather Conditions
+0dba6da5,09-11-2023,21:05,"S?œo Paulo, Brazil",-59.090985,-24.453005,Hail,Gravel,3,10,Reckless Driving
+111796cc,08-09-2024,13:15,"Paris, France",-38.755434,7.382182,Snow,Snowy,2,4,Mechanical Failure
+16bf82ff,03-03-2023,08:42,"Tokyo, Japan",42.79053,47.30902,Fog,Dry,1,2,Distracted Driving
+6bd56b53,06-04-2024,23:48,"S?œo Paulo, Brazil",2.076774,-166.200311,Snow,Under Construction,4,8,Weather Conditions
+240fe21b,14-02-2024,22:32,"S?œo Paulo, Brazil",-45.370831,10.286551,Snow,Dry,3,7,Distracted Driving
+6358a009,09-05-2024,16:02,"London, UK",68.279232,-15.639471,Rain,Under Construction,4,6,Speeding
+28fd492a,18-12-2023,03:06,"Sydney, Australia",19.622841,87.516278,Clear,Gravel,5,7,Distracted Driving
+3fe71565,15-11-2024,02:33,"New York, USA",33.41476,102.461224,Rain,Snowy,4,2,Distracted Driving
+db3e72fc,11-08-2023,06:22,"London, UK",-70.19704,1.942599,Hail,Under Construction,1,2,Drunk Driving
+e950cfed,01-06-2024,12:42,"Tokyo, Japan",-87.539052,124.622092,Fog,Under Construction,3,0,Reckless Driving
+0212c806,19-12-2024,23:59,"Toronto, Canada",71.435978,-41.106259,Clear,Gravel,5,8,Weather Conditions
+d55754c3,02-03-2024,22:55,"Mumbai, India",36.678175,-13.852731,Clear,Icy,4,4,Mechanical Failure
+3ecf8102,26-07-2024,23:05,"New York, USA",7.767595,-73.557168,Rain,Gravel,4,8,Drunk Driving
+daf5aa6b,25-08-2023,19:51,"S?œo Paulo, Brazil",89.180336,-23.985006,Clear,Gravel,1,6,Speeding
+98d1e2b0,31-10-2023,21:30,"Tokyo, Japan",89.393762,-55.597151,Clear,Snowy,5,6,Weather Conditions
+29c7be17,14-02-2024,18:01,"Berlin, Germany",80.72364,-76.086311,Rain,Under Construction,2,3,Reckless Driving
+73802912,04-03-2024,09:25,"Paris, France",-38.89548,-53.126606,Fog,Dry,4,9,Drunk Driving
+089c6f6f,30-06-2023,21:31,"Sydney, Australia",-59.648389,66.962293,Clear,Wet,5,10,Weather Conditions
+101e3a42,09-03-2023,10:06,"London, UK",57.43992,-98.712111,Rain,Gravel,1,8,Mechanical Failure
+a1a99d87,31-03-2023,02:15,"Toronto, Canada",70.795418,-75.391622,Snow,Wet,5,0,Drunk Driving
+f99faabe,03-05-2023,11:03,"London, UK",-43.499877,5.606172,Storm,Under Construction,3,7,Weather Conditions
+abffa545,03-09-2023,10:16,"S?œo Paulo, Brazil",52.680964,39.438935,Fog,Snowy,1,7,Speeding
+4d245678,12-02-2023,15:27,"Sydney, Australia",6.620879,151.94343,Hail,Wet,1,6,Mechanical Failure
+af075e12,09-11-2023,02:43,"Paris, France",43.86887,16.213381,Storm,Snowy,2,10,Mechanical Failure
+993bb83f,04-01-2023,17:36,"Berlin, Germany",81.548044,-126.337754,Hail,Icy,2,8,Speeding
+401347ff,02-10-2023,01:11,"Beijing, China",-81.557032,-120.118633,Snow,Icy,1,3,Mechanical Failure
+0400b61a,02-06-2024,08:47,"Toronto, Canada",89.800022,84.746185,Storm,Gravel,1,7,Mechanical Failure
+82ea3d4b,13-12-2023,01:26,"Beijing, China",-70.260321,-114.069526,Storm,Gravel,1,1,Drunk Driving
+71b7ccc5,17-03-2023,16:15,"New York, USA",-85.442543,-103.122266,Hail,Under Construction,5,10,Speeding
+2bd24a9b,25-05-2024,15:56,"New York, USA",53.413394,-174.679275,Storm,Dry,2,9,Speeding
+c21ff117,08-06-2023,10:22,"Mumbai, India",-63.822386,-158.602115,Fog,Wet,4,9,Drunk Driving
+ea805df3,13-09-2024,11:25,"Toronto, Canada",12.205643,82.347043,Snow,Wet,4,6,Speeding
+ccff438f,24-07-2024,01:26,"Paris, France",19.779925,-94.543592,Fog,Wet,1,4,Weather Conditions
+169c01e9,18-03-2024,05:33,"Tokyo, Japan",51.63156,-121.616667,Storm,Snowy,4,0,Drunk Driving
+fe219f6d,05-12-2023,03:34,"Sydney, Australia",-50.852214,5.023068,Rain,Snowy,4,1,Reckless Driving
+3f25a93e,21-11-2024,20:33,"S?œo Paulo, Brazil",22.62666,-42.167586,Snow,Snowy,3,2,Reckless Driving
+7d30ff27,07-02-2023,06:17,"Toronto, Canada",31.758845,-58.705443,Rain,Wet,3,7,Drunk Driving
+0519c96d,25-05-2023,00:36,"Berlin, Germany",-80.730538,-12.067712,Snow,Under Construction,1,6,Distracted Driving
+bf37bcfd,23-02-2023,09:57,"Paris, France",-16.545287,176.907926,Clear,Icy,3,0,Drunk Driving
+46b83a65,02-04-2023,07:03,"Paris, France",-48.072513,-3.942919,Rain,Icy,5,2,Distracted Driving
+039897c4,20-06-2023,12:14,"Sydney, Australia",-23.27527,-37.072307,Fog,Gravel,3,7,Distracted Driving
+75cb27bb,12-05-2024,17:29,"Tokyo, Japan",-72.722933,72.205735,Snow,Dry,5,0,Weather Conditions
+31af7762,15-04-2024,14:37,"New York, USA",-13.023397,167.370163,Hail,Under Construction,5,7,Speeding
+c8ed5499,07-04-2024,11:52,"London, UK",36.667403,149.890448,Rain,Gravel,4,6,Drunk Driving
+84cce960,16-03-2024,14:45,"Tokyo, Japan",30.235793,-158.723491,Rain,Gravel,1,4,Mechanical Failure
+eac84238,30-11-2024,05:25,"London, UK",31.923583,28.377009,Fog,Snowy,3,3,Mechanical Failure
+ce2bcb13,22-09-2024,15:43,"Mumbai, India",-86.470763,152.550244,Storm,Dry,1,9,Distracted Driving
+1ae65e3f,30-10-2023,19:32,"S?œo Paulo, Brazil",53.442083,134.709621,Hail,Wet,1,1,Weather Conditions
+a57e80e2,23-01-2024,15:13,"Beijing, China",-25.548982,-165.855214,Rain,Snowy,3,5,Weather Conditions
+f702d046,05-02-2024,14:25,"Sydney, Australia",60.994243,-52.163771,Fog,Under Construction,4,10,Distracted Driving
+ac6fa383,17-03-2024,12:21,"Beijing, China",73.439688,89.317446,Clear,Under Construction,4,4,Speeding
+1bf13687,29-10-2024,07:29,"New York, USA",-64.944034,-114.444453,Storm,Gravel,3,3,Reckless Driving
+bd71070a,06-01-2023,11:18,"S?œo Paulo, Brazil",-26.52481,97.157892,Clear,Snowy,2,9,Distracted Driving
+b1b87728,16-04-2024,16:51,"Mumbai, India",-65.246474,-77.538752,Snow,Under Construction,1,0,Reckless Driving
+ec12d39f,21-01-2024,20:01,"Beijing, China",83.786801,4.06288,Storm,Wet,2,4,Drunk Driving
+fb30c13b,08-06-2023,17:02,"S?œo Paulo, Brazil",3.67568,121.371154,Clear,Wet,2,3,Weather Conditions
+59debdf9,01-03-2024,19:41,"Tokyo, Japan",-73.444805,-45.929811,Hail,Dry,3,1,Distracted Driving
+5e80406f,19-07-2023,12:08,"S?œo Paulo, Brazil",-26.955822,138.48068,Snow,Gravel,4,4,Mechanical Failure
+f4bc382a,12-12-2023,06:09,"Berlin, Germany",53.058686,138.030407,Storm,Dry,3,2,Reckless Driving
+119c2f2c,14-01-2023,12:43,"Mumbai, India",-53.308374,106.779455,Rain,Icy,1,9,Mechanical Failure
+7b57aff9,14-09-2024,07:54,"Paris, France",-42.471079,-3.845032,Rain,Under Construction,1,1,Drunk Driving
+464f4620,02-10-2023,09:41,"Mumbai, India",31.15509,-28.635153,Fog,Dry,3,2,Speeding
+cee21d87,25-01-2023,05:35,"Mumbai, India",-13.20316,95.991458,Snow,Gravel,4,8,Drunk Driving
+7ff9b12e,19-06-2024,15:22,"Mumbai, India",58.529319,-107.462924,Clear,Under Construction,1,1,Speeding
+2c9e1d03,21-12-2023,12:16,"Paris, France",37.342756,-60.6151,Hail,Under Construction,2,0,Drunk Driving
+b553db5c,22-07-2023,16:39,"Tokyo, Japan",80.896983,112.584976,Clear,Icy,3,10,Reckless Driving
+28c9195b,24-10-2024,18:44,"Sydney, Australia",-77.74994,9.119148,Hail,Snowy,1,1,Reckless Driving
+a76f66b9,06-10-2024,19:43,"Sydney, Australia",55.959387,102.3067,Hail,Icy,3,1,Weather Conditions
+df155b4f,03-12-2023,14:16,"London, UK",86.902721,136.860454,Fog,Wet,2,9,Mechanical Failure
+f14fbb12,16-06-2024,14:34,"S?œo Paulo, Brazil",6.459995,-155.250658,Fog,Under Construction,3,9,Weather Conditions
+d39da039,15-04-2024,20:21,"Paris, France",-5.763022,168.742441,Snow,Dry,3,9,Speeding
+d0ec6e43,07-09-2023,17:50,"London, UK",34.376546,152.223027,Hail,Gravel,4,0,Drunk Driving
+7a5c4131,04-02-2023,21:44,"Mumbai, India",-46.484305,90.231688,Clear,Icy,5,3,Mechanical Failure
+8c5cd407,05-06-2024,10:44,"Sydney, Australia",-42.617088,-176.933944,Storm,Wet,3,5,Mechanical Failure
+a6129d18,30-05-2024,06:11,"S?œo Paulo, Brazil",-41.125078,166.152937,Fog,Wet,3,10,Mechanical Failure
+cd03105e,19-06-2023,08:38,"Toronto, Canada",-55.253482,-20.549268,Storm,Under Construction,5,3,Drunk Driving
+a2a91045,01-09-2023,11:24,"Berlin, Germany",22.281166,-46.12144,Storm,Wet,3,5,Weather Conditions
+291fcc3a,08-01-2023,13:23,"Mumbai, India",25.884671,-2.42359,Clear,Dry,2,1,Reckless Driving
+89e541d1,03-08-2023,23:44,"Toronto, Canada",76.449464,-83.231948,Hail,Dry,1,1,Drunk Driving
+bea57697,26-12-2024,12:45,"Berlin, Germany",-66.533029,-6.128857,Clear,Snowy,4,10,Drunk Driving
+30597601,10-08-2024,18:11,"Toronto, Canada",25.660334,112.55992,Storm,Gravel,1,0,Speeding
+27a971ed,02-02-2023,05:04,"Tokyo, Japan",85.64277,49.378699,Storm,Snowy,5,8,Weather Conditions
+88e2293b,09-12-2024,23:12,"Toronto, Canada",-39.191186,-114.729832,Hail,Wet,3,0,Speeding
+80f83c3a,04-02-2024,15:28,"Berlin, Germany",11.628031,97.159763,Hail,Icy,1,8,Speeding
+3fe0b464,14-11-2024,06:14,"S?œo Paulo, Brazil",21.239255,-34.827142,Clear,Wet,3,4,Distracted Driving
+9c03e6ad,26-06-2024,18:58,"S?œo Paulo, Brazil",-10.272826,44.606985,Hail,Snowy,5,4,Mechanical Failure
+39638ab7,02-02-2024,06:11,"London, UK",-80.025521,-128.678675,Hail,Wet,4,8,Weather Conditions
+934ea00a,18-08-2023,13:22,"Mumbai, India",81.155044,-19.302741,Clear,Wet,2,7,Drunk Driving
+9f48378c,16-05-2024,01:28,"Berlin, Germany",-77.99907,104.591541,Storm,Wet,1,3,Mechanical Failure
+0b26ea8b,16-10-2024,12:15,"Sydney, Australia",-64.132399,-166.807914,Hail,Under Construction,4,6,Mechanical Failure
+2cd1fead,10-04-2024,23:37,"London, UK",-68.516658,101.364236,Rain,Under Construction,5,5,Speeding
+166135bf,06-09-2024,09:56,"Sydney, Australia",-82.380707,-155.13997,Fog,Icy,1,5,Mechanical Failure
+80c7c52d,02-12-2023,08:37,"Beijing, China",47.135917,76.335789,Rain,Gravel,5,10,Drunk Driving
+aff36b25,22-04-2024,12:03,"London, UK",17.081984,-52.928418,Snow,Wet,5,7,Speeding
+2e08c3bb,05-01-2023,11:20,"Tokyo, Japan",-43.450996,14.722666,Clear,Wet,2,9,Mechanical Failure
+7b73d315,26-01-2023,10:10,"New York, USA",-19.246588,-165.365953,Fog,Gravel,4,1,Reckless Driving
+c7fd4d01,02-09-2023,10:23,"Sydney, Australia",-44.668523,28.948458,Rain,Under Construction,2,2,Weather Conditions
+50722706,07-10-2023,20:11,"Berlin, Germany",-9.458885,4.486301,Storm,Under Construction,1,3,Speeding
+d79c64ae,21-06-2024,20:53,"New York, USA",77.65359,120.743353,Hail,Under Construction,3,8,Distracted Driving
+9fdeb7a8,30-05-2024,01:52,"Sydney, Australia",-50.816101,101.218695,Snow,Under Construction,4,2,Mechanical Failure
+423cddd1,30-12-2024,18:13,"Sydney, Australia",-50.723226,-131.344949,Fog,Snowy,2,8,Reckless Driving
+1511d1d0,25-01-2023,10:01,"Paris, France",13.487416,-31.094917,Snow,Under Construction,2,2,Speeding
+d3751ca4,06-05-2023,07:51,"Sydney, Australia",-34.298934,-121.070635,Rain,Wet,3,4,Speeding
+9745978a,13-04-2023,17:31,"Paris, France",75.62567,-23.33119,Fog,Wet,1,3,Distracted Driving
+6e986d41,27-03-2024,19:10,"Berlin, Germany",75.675301,72.086922,Storm,Under Construction,5,5,Reckless Driving
+864c5f71,29-06-2023,01:14,"Paris, France",-71.244207,59.33442,Fog,Dry,1,4,Speeding
+47523526,28-09-2023,22:52,"Sydney, Australia",-32.311048,18.780282,Fog,Wet,4,7,Speeding
+9a97f6b6,01-09-2023,06:18,"Paris, France",-81.523717,122.373375,Storm,Wet,5,4,Distracted Driving
+f565be4d,08-09-2023,22:01,"Mumbai, India",-89.580214,-21.356622,Snow,Icy,5,0,Mechanical Failure
+0dcba104,28-06-2023,10:40,"Paris, France",55.384924,-98.263088,Storm,Snowy,5,9,Distracted Driving
+923a0cce,04-05-2023,21:48,"Mumbai, India",0.262952,-72.734407,Fog,Under Construction,2,4,Reckless Driving
+fd10c55d,15-02-2024,11:57,"Tokyo, Japan",-11.358261,143.541624,Fog,Gravel,4,2,Weather Conditions
+309c1683,23-06-2023,12:16,"London, UK",-66.440758,179.507776,Storm,Under Construction,3,3,Speeding
+be604d21,08-05-2024,16:08,"Toronto, Canada",24.88936,-158.436604,Hail,Wet,4,6,Drunk Driving
+eedaee2f,27-09-2023,11:59,"Mumbai, India",48.869959,51.035593,Hail,Gravel,1,6,Speeding
+321f2849,30-01-2024,20:15,"Paris, France",20.535769,-10.746712,Storm,Dry,3,8,Reckless Driving
+af8d7c02,16-02-2023,14:16,"Beijing, China",78.069213,177.097763,Clear,Under Construction,2,2,Mechanical Failure
+0d915a55,22-02-2024,03:29,"Toronto, Canada",2.852496,-38.628528,Snow,Icy,3,0,Weather Conditions
+6d204d29,14-06-2023,14:15,"Sydney, Australia",8.305243,-105.45683,Storm,Snowy,1,4,Mechanical Failure
+5.03E+252,16-04-2024,12:04,"Sydney, Australia",61.500968,-161.161516,Snow,Icy,4,5,Drunk Driving
+1b90ecc8,09-11-2023,17:38,"Beijing, China",31.429314,-87.256604,Clear,Gravel,1,5,Speeding
+afb4ec6a,18-11-2024,06:34,"S?œo Paulo, Brazil",-78.963844,108.019223,Clear,Under Construction,3,2,Drunk Driving
+006b229d,19-08-2023,16:30,"Paris, France",4.758211,105.85129,Clear,Dry,3,8,Distracted Driving
+8c37d070,29-08-2024,12:51,"Berlin, Germany",-35.437936,62.882285,Rain,Snowy,3,1,Distracted Driving
+351edb85,23-04-2023,04:14,"S?œo Paulo, Brazil",-58.910407,178.611178,Fog,Wet,4,1,Drunk Driving
+cd9d321f,19-04-2023,11:54,"Tokyo, Japan",-13.169407,65.09676,Hail,Gravel,2,1,Drunk Driving
+e9a000a4,03-04-2024,06:33,"New York, USA",24.00551,-162.920622,Storm,Gravel,5,4,Drunk Driving
+a444b82f,25-10-2024,10:01,"Sydney, Australia",37.890441,8.762644,Clear,Dry,1,4,Mechanical Failure
+0731eb13,11-08-2024,05:56,"Tokyo, Japan",35.1199,72.693664,Hail,Wet,3,6,Weather Conditions
+9cc59405,21-04-2024,18:21,"New York, USA",-45.37757,-151.912158,Hail,Dry,4,5,Distracted Driving
+0688d839,27-02-2023,05:27,"London, UK",67.50105,94.926875,Storm,Snowy,5,10,Weather Conditions
+a1203994,01-10-2023,18:52,"Sydney, Australia",55.688124,-33.4867,Hail,Under Construction,3,8,Drunk Driving
+fc3e8eb2,30-08-2024,17:09,"New York, USA",66.77231,-12.020427,Snow,Wet,3,4,Distracted Driving
+da70549e,05-05-2023,05:15,"Toronto, Canada",-68.399323,19.981716,Storm,Gravel,5,9,Speeding
+54f9ac61,19-12-2023,06:38,"Tokyo, Japan",10.618161,-11.63618,Hail,Wet,3,6,Weather Conditions
+506e3067,10-04-2024,09:41,"Sydney, Australia",19.249923,98.911958,Snow,Dry,1,0,Weather Conditions
+4b3a2004,25-08-2023,03:23,"Mumbai, India",-76.306655,37.541163,Rain,Dry,3,3,Weather Conditions
+d7c9bd50,10-01-2024,04:28,"Paris, France",4.67085,160.038046,Snow,Icy,3,5,Speeding
+fd561717,04-03-2023,16:04,"Paris, France",-74.516409,-124.474597,Storm,Gravel,1,8,Distracted Driving
+705af774,23-02-2023,01:41,"S?œo Paulo, Brazil",44.561927,174.939575,Storm,Wet,3,0,Reckless Driving
+b93e54c7,24-04-2023,13:02,"London, UK",87.370053,-157.755527,Clear,Dry,2,7,Distracted Driving
+255efb1a,15-01-2024,18:15,"London, UK",1.56102,-48.344498,Snow,Gravel,2,8,Reckless Driving
+029391c9,19-11-2024,08:39,"S?œo Paulo, Brazil",48.225913,146.842332,Fog,Icy,1,8,Mechanical Failure
+49127f2e,04-04-2024,11:29,"Paris, France",55.743492,-39.357987,Rain,Icy,3,8,Drunk Driving
+059aaa13,20-09-2024,20:42,"Tokyo, Japan",11.108757,18.931553,Snow,Gravel,3,4,Mechanical Failure
+6a9bc8b8,22-06-2023,17:23,"S?œo Paulo, Brazil",-69.775064,114.370671,Snow,Gravel,5,8,Reckless Driving
+d5ae5e01,22-08-2023,15:22,"Berlin, Germany",46.630176,-131.103049,Fog,Icy,4,10,Reckless Driving
+ddb76b46,17-10-2023,22:06,"Tokyo, Japan",-58.470144,-177.687988,Rain,Wet,4,6,Speeding
+9c6da35a,01-07-2023,14:29,"S?œo Paulo, Brazil",-84.628212,-170.51629,Rain,Dry,4,6,Mechanical Failure
+b9ccc699,14-07-2023,12:26,"Paris, France",20.047501,53.961297,Rain,Snowy,2,4,Reckless Driving
+0078615f,08-11-2024,01:11,"Toronto, Canada",57.428378,48.521889,Snow,Icy,4,6,Distracted Driving
+44ef1076,15-04-2023,20:04,"London, UK",15.253669,32.427841,Fog,Gravel,1,2,Drunk Driving
+607fc1b1,05-10-2024,11:58,"Beijing, China",43.375822,23.586973,Fog,Wet,1,9,Reckless Driving
+ac4c7e62,16-02-2023,15:44,"Mumbai, India",-20.06506,-51.99451,Clear,Gravel,2,2,Distracted Driving
+3c748c0f,14-06-2023,21:16,"Sydney, Australia",-25.618757,159.253553,Rain,Under Construction,1,10,Distracted Driving
+c046f9d4,11-03-2024,20:45,"Toronto, Canada",-82.663154,-12.801319,Hail,Dry,4,0,Reckless Driving
+80a40d89,13-07-2023,23:46,"Tokyo, Japan",-88.893105,40.973955,Hail,Under Construction,4,7,Weather Conditions
+8287e9d8,04-06-2023,06:33,"Berlin, Germany",-36.289014,-131.04878,Hail,Snowy,5,10,Distracted Driving
+0a65a267,07-04-2023,13:41,"Beijing, China",63.679129,82.137013,Fog,Wet,5,9,Weather Conditions
+2d21a55c,07-12-2024,09:46,"Paris, France",28.128941,-48.61723,Storm,Snowy,1,9,Reckless Driving
+f4e0c079,22-04-2023,11:30,"S?œo Paulo, Brazil",-15.139741,-107.271464,Hail,Under Construction,1,10,Distracted Driving
+fbb6bf69,12-07-2024,20:22,"Berlin, Germany",45.11049,55.096258,Snow,Gravel,3,10,Weather Conditions
+0a9c5de6,26-12-2024,03:27,"New York, USA",47.974465,111.760792,Storm,Wet,1,7,Drunk Driving
+db69d0b8,28-07-2023,18:02,"S?œo Paulo, Brazil",41.231748,-14.7103,Hail,Under Construction,4,1,Mechanical Failure
+9f76a2d3,31-10-2023,22:53,"Toronto, Canada",16.123109,173.370332,Clear,Icy,3,7,Speeding
+9791a808,22-05-2023,04:01,"Toronto, Canada",37.242224,66.922061,Clear,Dry,1,7,Distracted Driving
+13e0b94d,20-08-2024,01:25,"S?œo Paulo, Brazil",56.731468,126.486033,Fog,Gravel,2,4,Drunk Driving
+e9c40d53,23-02-2023,08:39,"Beijing, China",42.047899,-83.259445,Storm,Gravel,5,9,Drunk Driving
+853e0597,06-07-2023,21:37,"Mumbai, India",-80.66585,40.382072,Rain,Under Construction,3,2,Speeding
+6eec2d52,17-04-2024,15:44,"S?œo Paulo, Brazil",-33.194023,110.639463,Snow,Icy,5,4,Speeding
+4b5fcae4,18-02-2024,23:49,"Toronto, Canada",-65.61862,-85.698898,Snow,Gravel,3,7,Weather Conditions
+89c1c82f,24-06-2024,01:04,"Berlin, Germany",-16.530477,109.883883,Storm,Gravel,1,2,Distracted Driving
+d78649bb,09-07-2024,02:25,"S?œo Paulo, Brazil",9.904689,106.479547,Hail,Dry,4,9,Drunk Driving
+4b15b849,21-10-2024,10:44,"Toronto, Canada",-44.597504,-165.556371,Hail,Under Construction,1,9,Drunk Driving
+1b970474,13-08-2023,20:15,"Berlin, Germany",64.02854,78.20198,Storm,Wet,2,3,Drunk Driving
+891b462b,15-02-2024,04:41,"Mumbai, India",-6.391027,-75.007438,Snow,Wet,4,5,Drunk Driving
+1e19c6e6,09-06-2023,06:26,"Tokyo, Japan",75.033132,-147.804107,Hail,Wet,4,9,Reckless Driving
+cf234ba6,29-11-2024,06:51,"Mumbai, India",-16.977889,128.773135,Hail,Snowy,2,4,Weather Conditions
+84d71ac6,16-07-2024,15:10,"S?œo Paulo, Brazil",-41.060791,-83.759498,Storm,Wet,1,5,Mechanical Failure
+f996aaca,26-12-2024,19:19,"Toronto, Canada",4.123323,-100.465346,Rain,Dry,3,6,Speeding
+c600a265,14-04-2023,10:40,"Sydney, Australia",-52.468134,-134.576873,Fog,Gravel,3,4,Speeding
+291a3b8a,09-02-2024,19:18,"Sydney, Australia",8.527853,-69.487479,Clear,Gravel,4,2,Speeding
+8efd6d74,30-05-2024,16:35,"Sydney, Australia",73.79454,150.386337,Clear,Icy,1,8,Reckless Driving
+687431a5,23-12-2023,15:49,"S?œo Paulo, Brazil",-89.965394,152.173924,Fog,Gravel,3,3,Weather Conditions
+4d8ea593,13-11-2023,01:36,"Mumbai, India",-25.029249,9.471806,Clear,Under Construction,2,8,Mechanical Failure
+ace36c1c,18-06-2023,07:39,"S?œo Paulo, Brazil",-84.473843,-81.061958,Fog,Icy,1,7,Drunk Driving
+297e9bab,12-07-2024,18:37,"London, UK",-23.263976,88.958398,Clear,Snowy,4,7,Distracted Driving
+6d62e687,04-06-2024,04:18,"Sydney, Australia",-5.702201,135.159737,Fog,Wet,1,9,Distracted Driving
+e46fe059,02-12-2023,22:44,"Toronto, Canada",-74.24895,-81.261489,Snow,Snowy,1,4,Speeding
+5f883763,19-05-2024,03:29,"London, UK",-18.653349,58.333477,Snow,Icy,1,9,Mechanical Failure
+90448a4d,20-01-2023,20:39,"New York, USA",64.008728,149.071433,Storm,Icy,5,3,Speeding
+bc7766f9,15-06-2023,09:28,"Tokyo, Japan",19.322997,178.985341,Hail,Gravel,2,2,Reckless Driving
+82019367,04-09-2023,20:36,"Tokyo, Japan",53.943492,-161.888484,Hail,Dry,4,9,Speeding
+c856855c,04-06-2023,22:47,"New York, USA",73.283944,-98.993424,Snow,Snowy,5,9,Drunk Driving
+790a1ba5,09-08-2024,06:50,"S?œo Paulo, Brazil",-25.545054,119.584537,Storm,Dry,2,7,Drunk Driving
+c2dad2f8,04-09-2024,09:34,"Beijing, China",29.402908,86.670469,Fog,Snowy,1,3,Distracted Driving
+0d423074,06-06-2023,01:15,"Toronto, Canada",78.047504,41.143028,Hail,Wet,4,0,Reckless Driving
+60ed673b,27-03-2023,10:12,"Tokyo, Japan",23.888001,149.870006,Clear,Wet,4,10,Distracted Driving
+886254d5,11-05-2024,19:26,"Paris, France",6.523624,51.556388,Storm,Snowy,4,8,Weather Conditions
+a4177c88,14-11-2024,00:32,"Toronto, Canada",6.950542,58.573375,Snow,Wet,4,5,Mechanical Failure
+c141cc4a,20-01-2023,14:02,"Paris, France",-3.023137,159.229875,Hail,Dry,3,4,Weather Conditions
+601f862b,24-11-2024,13:11,"Mumbai, India",79.471495,-66.070131,Clear,Gravel,1,4,Mechanical Failure
+edb3768e,01-10-2023,17:58,"S?œo Paulo, Brazil",-39.617893,-153.931304,Storm,Snowy,4,10,Speeding
+694bc9b4,16-07-2023,13:53,"Sydney, Australia",-21.840036,-117.306216,Fog,Snowy,1,9,Reckless Driving
+2a453ff0,17-09-2024,08:35,"Sydney, Australia",42.494395,66.727765,Storm,Snowy,5,10,Reckless Driving
